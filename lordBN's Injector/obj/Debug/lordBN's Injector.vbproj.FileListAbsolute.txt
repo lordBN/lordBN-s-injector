@@ -1,0 +1,11 @@
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\bin\Debug\lordBN's Injector.exe.config
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\bin\Debug\lordBN's Injector.exe
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\bin\Debug\lordBN's Injector.pdb
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\bin\Debug\lordBN's Injector.xml
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN's Injector.vbprojAssemblyReference.cache
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN_s_Injector.Form1.resources
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN_s_Injector.Resources.resources
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN's Injector.vbproj.GenerateResource.cache
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN's Injector.exe
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN's Injector.xml
+C:\Users\bnnie\source\repos\lordBN's Injector\lordBN's Injector\obj\Debug\lordBN's Injector.pdb
