@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/lordBN/lordBN-s-injector.svg?branch=master)](https://travis-ci.com/lordBN/lordBN-s-injector)
 
+[![Gitter](https://badges.gitter.im/lordBN/community.svg)](https://gitter.im/lordBN/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 My injector source code.
 
 Download link https://github.com/lordBN/lordBN-s-injector/releases
